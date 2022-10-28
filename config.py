@@ -1,2 +1,2 @@
 class Config:
-    session_name = "asdasdasdasdasd" #Pyrogram v1.3.6 string lazimdir. python3 gen.py yazaraq ala bilersiniz
+    session_name = "BABtGHIWF5SICYytiudI6_DpSie-7Dv9aJ3D5zQIPYyFOlP0AVUbySD9TBtLo0kRCjxzMfhwR8LIM3ro2oiTHbqexmiWzahfGRC1Tj-W70hlOR1rC13QKR7TsEXS8RbacE82eJg9OfTgvwqn_7Pii_HoYp406qWPYq1wu1RtKOMZJsOTOLAktcayZLNxR_JjKdLGEQi8kk3eYJdufNBS0bkFiEX1bcMnPF1cuRcWhIC9PKU4JREvczKn_E3bB-X1VkaGRcbX38xXt5rJov5pzi4wuDbYWUb2bUvOXpGUl0kFs7HpFBc6fb9cQNB3N5USIdT1BV60LMs_IqbqUlYeiZehAAAAAVTS1sEA" #Pyrogram v1.3.6 string lazimdir. python3 gen.py yazaraq ala bilersiniz
